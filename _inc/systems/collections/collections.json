@@ -1,638 +1,797 @@
 [
   {
     "id": "pokemon",
-    "name": "Pokemon"
+    "name": "Pokemon",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/pokemon.jpeg?raw=true"
   },
   {
     "id": "mario",
-    "name": "Mario"
+    "name": "Mario",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mario.jpeg?raw=true"
   },
   {
     "id": "grand-theft-auto",
-    "name": "Grand Theft Auto"
+    "name": "Grand Theft Auto",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/grand-theft-auto.jpeg?raw=true"
   },
   {
     "id": "sonic",
-    "name": "Sonic"
+    "name": "Sonic",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/sonic.jpeg?raw=true"
   },
   {
     "id": "fifa",
-    "name": "Fifa"
+    "name": "Fifa",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/fifa.jpeg?raw=true"
   },
   {
     "id": "spider-man",
-    "name": "Spider-Man"
+    "name": "Spider-Man",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/spider-man.jpeg?raw=true"
   },
   {
     "id": "naruto",
-    "name": "Naruto"
+    "name": "Naruto",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/naruto.jpeg?raw=true"
   },
   {
     "id": "wwe",
-    "name": "Wwe"
+    "name": "Wwe",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/wwe.jpeg?raw=true"
   },
   {
     "id": "zelda",
-    "name": "Zelda"
+    "name": "Zelda",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/zelda.jpeg?raw=true"
   },
   {
     "id": "yu-gi-oh!",
-    "name": "Yu-Gi-Oh!"
+    "name": "Yu-Gi-Oh!",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/yu-gi-oh!.jpeg?raw=true"
   },
   {
     "id": "dragon-ball-z",
-    "name": "Dragon Ball Z"
+    "name": "Dragon Ball Z",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dragon-ball-z.jpeg?raw=true"
   },
   {
     "id": "mortal-combat",
-    "name": "Mortal Combat"
+    "name": "Mortal Combat",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mortal-combat.jpeg?raw=true"
   },
   {
     "id": "kirby",
-    "name": "Kirby"
+    "name": "Kirby",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/kirby.jpeg?raw=true"
   },
   {
     "id": "need-for-speed",
-    "name": "Need for Speed"
+    "name": "Need for Speed",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/need-for-speed.jpeg?raw=true"
   },
   {
     "id": "street-fighter",
-    "name": "Street Fighter"
+    "name": "Street Fighter",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/street-fighter.jpeg?raw=true"
   },
   {
     "id": "tekken",
-    "name": "Tekken"
+    "name": "Tekken",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/tekken.jpeg?raw=true"
   },
   {
     "id": "lego",
-    "name": "Lego"
+    "name": "Lego",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/lego.jpeg?raw=true"
   },
   {
     "id": "marvel",
-    "name": "Marvel"
+    "name": "Marvel",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/marvel.jpeg?raw=true"
   },
   {
     "id": "nba",
-    "name": "Nba"
+    "name": "Nba",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/nba.jpeg?raw=true"
   },
   {
     "id": "digimon",
-    "name": "Digimon"
+    "name": "Digimon",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/digimon.jpeg?raw=true"
   },
   {
     "id": "mega-man",
-    "name": "Mega Man"
+    "name": "Mega Man",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mega-man.jpeg?raw=true"
   },
   {
     "id": "harry-potter",
-    "name": "Harry Potter"
+    "name": "Harry Potter",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/harry-potter.jpeg?raw=true"
   },
   {
     "id": "crash-bandicoot",
-    "name": "Crash Bandicoot"
+    "name": "Crash Bandicoot",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/crash-bandicoot.jpeg?raw=true"
   },
   {
     "id": "power-rangers",
-    "name": "Power Rangers"
+    "name": "Power Rangers",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/power-rangers.jpeg?raw=true"
   },
   {
     "id": "final-fantasy",
-    "name": "Final Fantasy"
+    "name": "Final Fantasy",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/final-fantasy.jpeg?raw=true"
   },
   {
     "id": "batman",
-    "name": "Batman"
+    "name": "Batman",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/batman.jpeg?raw=true"
   },
   {
     "id": "the-king-of-fighters",
-    "name": "The King of Fighters"
+    "name": "The King of Fighters",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/the-king-of-fighters.jpeg?raw=true"
   },
   {
     "id": "x-men",
-    "name": "X-Men"
+    "name": "X-Men",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/x-men.jpeg?raw=true"
   },
   {
     "id": "castlevania",
-    "name": "Castlevania"
+    "name": "Castlevania",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/castlevania.jpeg?raw=true"
   },
   {
     "id": "fire-emblem",
-    "name": "Fire Emblem"
+    "name": "Fire Emblem",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/fire-emblem.jpeg?raw=true"
   },
   {
     "id": "donkey-kong",
-    "name": "Donkey Kong"
+    "name": "Donkey Kong",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/donkey-kong.jpeg?raw=true"
   },
   {
     "id": "harvest-moon",
-    "name": "Harvest Moon"
+    "name": "Harvest Moon",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/harvest-moon.jpeg?raw=true"
   },
   {
     "id": "doom",
-    "name": "Doom"
+    "name": "Doom",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/doom.jpeg?raw=true"
   },
   {
     "id": "spongebob",
-    "name": "Spongebob"
+    "name": "Spongebob",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/spongebob.jpeg?raw=true"
   },
   {
     "id": "star-wars",
-    "name": "Star Wars"
+    "name": "Star Wars",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/star-wars.jpeg?raw=true"
   },
   {
     "id": "superman",
-    "name": "Superman"
+    "name": "Superman",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/superman.jpeg?raw=true"
   },
   {
     "id": "ninja-turtles",
-    "name": "Ninja Turtles"
+    "name": "Ninja Turtles",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/ninja-turtles.jpeg?raw=true"
   },
   {
     "id": "prince-of-persia",
-    "name": "Prince of Persia"
+    "name": "Prince of Persia",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/prince-of-persia.jpeg?raw=true"
   },
   {
     "id": "metal-gear",
-    "name": "Metal Gear"
+    "name": "Metal Gear",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/metal-gear.jpeg?raw=true"
   },
   {
     "id": "bomberman",
-    "name": "Bomberman"
+    "name": "Bomberman",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bomberman.jpeg?raw=true"
   },
   {
     "id": "dragon-quest",
-    "name": "Dragon Quest"
+    "name": "Dragon Quest",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dragon-quest.jpeg?raw=true"
   },
   {
     "id": "the-simpsons",
-    "name": "The Simpsons"
+    "name": "The Simpsons",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/the-simpsons.jpeg?raw=true"
   },
   {
     "id": "jurassic-park",
-    "name": "Jurassic Park"
+    "name": "Jurassic Park",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/jurassic-park.jpeg?raw=true"
   },
   {
     "id": "pac-man",
-    "name": "Pac-Man"
+    "name": "Pac-Man",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/pac-man.jpeg?raw=true"
   },
   {
     "id": "gundam",
-    "name": "Gundam"
+    "name": "Gundam",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/gundam.jpeg?raw=true"
   },
   {
     "id": "contra",
-    "name": "Contra"
+    "name": "Contra",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/contra.jpeg?raw=true"
   },
   {
     "id": "spyro",
-    "name": "Spyro"
+    "name": "Spyro",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/spyro.jpeg?raw=true"
   },
   {
     "id": "rampage",
-    "name": "Rampage"
+    "name": "Rampage",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/rampage.jpeg?raw=true"
   },
   {
     "id": "madden",
-    "name": "Madden"
+    "name": "Madden",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/madden.jpeg?raw=true"
   },
   {
     "id": "rayman",
-    "name": "Rayman"
+    "name": "Rayman",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/rayman.jpeg?raw=true"
   },
   {
     "id": "metroid",
-    "name": "Metroid"
+    "name": "Metroid",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/metroid.jpeg?raw=true"
   },
   {
     "id": "alien",
-    "name": "Alien"
+    "name": "Alien",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/alien.jpeg?raw=true"
   },
   {
     "id": "dungeons-&-dragons",
-    "name": "Dungeons & Dragons"
+    "name": "Dungeons & Dragons",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dungeons-&-dragons.jpeg?raw=true"
   },
   {
     "id": "adventure-island",
-    "name": "Adventure Island"
+    "name": "Adventure Island",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/adventure-island.jpeg?raw=true"
   },
   {
     "id": "worms",
-    "name": "Worms"
+    "name": "Worms",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/worms.jpeg?raw=true"
   },
   {
     "id": "captain-tsubasa",
-    "name": "Captain Tsubasa"
+    "name": "Captain Tsubasa",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/captain-tsubasa.jpeg?raw=true"
   },
   {
     "id": "simcity",
-    "name": "Simcity"
+    "name": "Simcity",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/simcity.jpeg?raw=true"
   },
   {
     "id": "yoshi",
-    "name": "Yoshi"
+    "name": "Yoshi",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/yoshi.jpeg?raw=true"
   },
   {
     "id": "dragon-slayer",
-    "name": "Dragon Slayer"
+    "name": "Dragon Slayer",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dragon-slayer.jpeg?raw=true"
   },
   {
     "id": "barbie",
-    "name": "Barbie"
+    "name": "Barbie",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/barbie.jpeg?raw=true"
   },
   {
     "id": "shinobi",
-    "name": "Shinobi"
+    "name": "Shinobi",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/shinobi.jpeg?raw=true"
   },
   {
     "id": "james-bond-007",
-    "name": "James Bond 007"
+    "name": "James Bond 007",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/james-bond-007.jpeg?raw=true"
   },
   {
     "id": "sailor-moon",
-    "name": "Sailor Moon"
+    "name": "Sailor Moon",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/sailor-moon.jpeg?raw=true"
   },
   {
     "id": "nfl",
-    "name": "Nfl"
+    "name": "Nfl",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/nfl.jpeg?raw=true"
   },
   {
     "id": "shrek",
-    "name": "Shrek"
+    "name": "Shrek",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/shrek.jpeg?raw=true"
   },
   {
     "id": "mcdonald's",
-    "name": "Mcdonald'S"
+    "name": "Mcdonald'S",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mcdonald's.jpeg?raw=true"
   },
   {
     "id": "wario",
-    "name": "Wario"
+    "name": "Wario",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/wario.jpeg?raw=true"
   },
   {
     "id": "bruce-lee",
-    "name": "Bruce Lee"
+    "name": "Bruce Lee",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bruce-lee.jpeg?raw=true"
   },
   {
     "id": "tetris",
-    "name": "Tetris"
+    "name": "Tetris",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/tetris.jpeg?raw=true"
   },
   {
     "id": "terminator",
-    "name": "Terminator"
+    "name": "Terminator",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/terminator.jpeg?raw=true"
   },
   {
     "id": "ninja-gaiden",
-    "name": "Ninja Gaiden"
+    "name": "Ninja Gaiden",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/ninja-gaiden.jpeg?raw=true"
   },
   {
     "id": "rambo",
-    "name": "Rambo"
+    "name": "Rambo",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/rambo.jpeg?raw=true"
   },
   {
     "id": "road-rash",
-    "name": "Road Rash"
+    "name": "Road Rash",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/road-rash.jpeg?raw=true"
   },
   {
     "id": "top-gear",
-    "name": "Top Gear"
+    "name": "Top Gear",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/top-gear.jpeg?raw=true"
   },
   {
     "id": "baseball",
-    "name": "Baseball"
+    "name": "Baseball",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/baseball.jpeg?raw=true"
   },
   {
     "id": "samurai-showdown",
-    "name": "Samurai Showdown"
+    "name": "Samurai Showdown",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/samurai-showdown.jpeg?raw=true"
   },
   {
     "id": "mickey-mouse",
-    "name": "Mickey Mouse"
+    "name": "Mickey Mouse",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mickey-mouse.jpeg?raw=true"
   },
   {
     "id": "monopoly",
-    "name": "Monopoly"
+    "name": "Monopoly",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/monopoly.jpeg?raw=true"
   },
   {
     "id": "shaman-king",
-    "name": "Shaman King"
+    "name": "Shaman King",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/shaman-king.jpeg?raw=true"
   },
   {
     "id": "home-alone",
-    "name": "Home Alone"
+    "name": "Home Alone",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/home-alone.jpeg?raw=true"
   },
   {
     "id": "tiny-toon-adventures",
-    "name": "Tiny Toon Adventures"
+    "name": "Tiny Toon Adventures",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/tiny-toon-adventures.jpeg?raw=true"
   },
   {
     "id": "mike-tyson",
-    "name": "Mike Tyson"
+    "name": "Mike Tyson",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mike-tyson.jpeg?raw=true"
   },
   {
     "id": "space-invaders",
-    "name": "Space Invaders"
+    "name": "Space Invaders",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/space-invaders.jpeg?raw=true"
   },
   {
     "id": "golden-axe",
-    "name": "Golden Axe"
+    "name": "Golden Axe",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/golden-axe.jpeg?raw=true"
   },
   {
     "id": "ghostbusters",
-    "name": "Ghostbusters"
+    "name": "Ghostbusters",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/ghostbusters.jpeg?raw=true"
   },
   {
     "id": "double-dragon",
-    "name": "Double Dragon"
+    "name": "Double Dragon",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/double-dragon.jpeg?raw=true"
   },
   {
     "id": "wolfenstein",
-    "name": "Wolfenstein"
+    "name": "Wolfenstein",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/wolfenstein.jpeg?raw=true"
   },
   {
     "id": "puyo-puyo",
-    "name": "Puyo Puyo"
+    "name": "Puyo Puyo",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/puyo-puyo.jpeg?raw=true"
   },
   {
     "id": "nhl",
-    "name": "Nhl"
+    "name": "Nhl",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/nhl.jpeg?raw=true"
   },
   {
     "id": "star-fox",
-    "name": "Star Fox"
+    "name": "Star Fox",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/star-fox.jpeg?raw=true"
   },
   {
     "id": "art-of-fighting",
-    "name": "Art of Fighting"
+    "name": "Art of Fighting",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/art-of-fighting.jpeg?raw=true"
   },
   {
     "id": "superstar-soccer",
-    "name": "Superstar Soccer"
+    "name": "Superstar Soccer",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/superstar-soccer.jpeg?raw=true"
   },
   {
     "id": "streets-of-rage",
-    "name": "Streets of Rage"
+    "name": "Streets of Rage",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/streets-of-rage.jpeg?raw=true"
   },
   {
     "id": "duke-nukem",
-    "name": "Duke Nukem"
+    "name": "Duke Nukem",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/duke-nukem.jpeg?raw=true"
   },
   {
     "id": "garfield",
-    "name": "Garfield"
+    "name": "Garfield",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/garfield.jpeg?raw=true"
   },
   {
     "id": "another-world",
-    "name": "Another World"
+    "name": "Another World",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/another-world.jpeg?raw=true"
   },
   {
     "id": "dig-dug",
-    "name": "Dig Dug"
+    "name": "Dig Dug",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dig-dug.jpeg?raw=true"
   },
   {
     "id": "strike",
-    "name": "Strike"
+    "name": "Strike",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/strike.jpeg?raw=true"
   },
   {
     "id": "snake",
-    "name": "Snake"
+    "name": "Snake",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/snake.jpeg?raw=true"
   },
   {
     "id": "bubble-bobble",
-    "name": "Bubble Bobble"
+    "name": "Bubble Bobble",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bubble-bobble.jpeg?raw=true"
   },
   {
     "id": "breath-of-fire",
-    "name": "Breath of Fire"
+    "name": "Breath of Fire",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/breath-of-fire.jpeg?raw=true"
   },
   {
     "id": "bugs-bunny",
-    "name": "Bugs Bunny"
+    "name": "Bugs Bunny",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bugs-bunny.jpeg?raw=true"
   },
   {
     "id": "wonder-boy",
-    "name": "Wonder Boy"
+    "name": "Wonder Boy",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/wonder-boy.jpeg?raw=true"
   },
   {
     "id": "battletoads",
-    "name": "Battletoads"
+    "name": "Battletoads",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/battletoads.jpeg?raw=true"
   },
   {
     "id": "adventures-of-lolo",
-    "name": "Adventures of Lolo"
+    "name": "Adventures of Lolo",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/adventures-of-lolo.jpeg?raw=true"
   },
   {
     "id": "turok",
-    "name": "Turok"
+    "name": "Turok",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/turok.jpeg?raw=true"
   },
   {
     "id": "galaga",
-    "name": "Galaga"
+    "name": "Galaga",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/galaga.jpeg?raw=true"
   },
   {
     "id": "front-mission",
-    "name": "Front Mission"
+    "name": "Front Mission",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/front-mission.jpeg?raw=true"
   },
   {
     "id": "frogger",
-    "name": "Frogger"
+    "name": "Frogger",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/frogger.jpeg?raw=true"
   },
   {
     "id": "lost-vikings",
-    "name": "Lost Vikings"
+    "name": "Lost Vikings",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/lost-vikings.jpeg?raw=true"
   },
   {
     "id": "uncharted-waters",
-    "name": "Uncharted Waters"
+    "name": "Uncharted Waters",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/uncharted-waters.jpeg?raw=true"
   },
   {
     "id": "gauntlet",
-    "name": "Gauntlet"
+    "name": "Gauntlet",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/gauntlet.jpeg?raw=true"
   },
   {
     "id": "power-blade",
-    "name": "Power Blade"
+    "name": "Power Blade",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/power-blade.jpeg?raw=true"
   },
   {
     "id": "animaniacs",
-    "name": "Animaniacs"
+    "name": "Animaniacs",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/animaniacs.jpeg?raw=true"
   },
   {
     "id": "paperboy",
-    "name": "Paperboy"
+    "name": "Paperboy",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/paperboy.jpeg?raw=true"
   },
   {
     "id": "secret-of-mana",
-    "name": "Secret of Mana"
+    "name": "Secret of Mana",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/secret-of-mana.jpeg?raw=true"
   },
   {
     "id": "sunset-riders",
-    "name": "Sunset Riders"
+    "name": "Sunset Riders",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/sunset-riders.jpeg?raw=true"
   },
   {
     "id": "splatterhouse",
-    "name": "Splatterhouse"
+    "name": "Splatterhouse",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/splatterhouse.jpeg?raw=true"
   },
   {
     "id": "asterix-and-obelix",
-    "name": "Asterix and Obelix"
+    "name": "Asterix and Obelix",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/asterix-and-obelix.jpeg?raw=true"
   },
   {
     "id": "pong",
-    "name": "Pong"
+    "name": "Pong",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/pong.jpeg?raw=true"
   },
   {
     "id": "defender",
-    "name": "Defender"
+    "name": "Defender",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/defender.jpeg?raw=true"
   },
   {
     "id": "earthworm-jim",
-    "name": "Earthworm Jim"
+    "name": "Earthworm Jim",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/earthworm-jim.jpeg?raw=true"
   },
   {
     "id": "joe-&-mac",
-    "name": "Joe & Mac"
+    "name": "Joe & Mac",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/joe-&-mac.jpeg?raw=true"
   },
   {
     "id": "alex-kidd",
-    "name": "Alex Kidd"
+    "name": "Alex Kidd",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/alex-kidd.jpeg?raw=true"
   },
   {
     "id": "boogerman",
-    "name": "Boogerman"
+    "name": "Boogerman",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/boogerman.jpeg?raw=true"
   },
   {
     "id": "asteroids",
-    "name": "Asteroids"
+    "name": "Asteroids",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/asteroids.jpeg?raw=true"
   },
   {
     "id": "phantasy-star",
-    "name": "Phantasy Star"
+    "name": "Phantasy Star",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/phantasy-star.jpeg?raw=true"
   },
   {
     "id": "bubsy",
-    "name": "Bubsy"
+    "name": "Bubsy",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bubsy.jpeg?raw=true"
   },
   {
     "id": "shining-force",
-    "name": "Shining Force"
+    "name": "Shining Force",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/shining-force.jpeg?raw=true"
   },
   {
     "id": "excitebike",
-    "name": "Excitebike"
+    "name": "Excitebike",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/excitebike.jpeg?raw=true"
   },
   {
     "id": "the-flintstones",
-    "name": "The Flintstones"
+    "name": "The Flintstones",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/the-flintstones.jpeg?raw=true"
   },
   {
     "id": "breakout",
-    "name": "Breakout"
+    "name": "Breakout",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/breakout.jpeg?raw=true"
   },
   {
     "id": "inspector-gadget",
-    "name": "Inspector Gadget"
+    "name": "Inspector Gadget",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/inspector-gadget.jpeg?raw=true"
   },
   {
     "id": "centipede",
-    "name": "Centipede"
+    "name": "Centipede",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/centipede.jpeg?raw=true"
   },
   {
     "id": "pitfall",
-    "name": "Pitfall"
+    "name": "Pitfall",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/pitfall.jpeg?raw=true"
   },
   {
     "id": "gradius",
-    "name": "Gradius"
+    "name": "Gradius",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/gradius.jpeg?raw=true"
   },
   {
     "id": "r.c.-pro-am",
-    "name": "R.C. Pro-Am"
+    "name": "R.C. Pro-Am",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/r.c.-pro-am.jpeg?raw=true"
   },
   {
     "id": "arkanoid",
-    "name": "Arkanoid"
+    "name": "Arkanoid",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/arkanoid.jpeg?raw=true"
   },
   {
     "id": "rolling-thunder",
-    "name": "Rolling Thunder"
+    "name": "Rolling Thunder",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/rolling-thunder.jpeg?raw=true"
   },
   {
     "id": "mighty-max",
-    "name": "Mighty Max"
+    "name": "Mighty Max",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mighty-max.jpeg?raw=true"
   },
   {
     "id": "goonies",
-    "name": "Goonies"
+    "name": "Goonies",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/goonies.jpeg?raw=true"
   },
   {
     "id": "micro-machines",
-    "name": "Micro Machines"
+    "name": "Micro Machines",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/micro-machines.jpeg?raw=true"
   },
   {
     "id": "mr.-nutz",
-    "name": "Mr. Nutz"
+    "name": "Mr. Nutz",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mr.-nutz.jpeg?raw=true"
   },
   {
     "id": "ecco",
-    "name": "Ecco"
+    "name": "Ecco",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/ecco.jpeg?raw=true"
   },
   {
     "id": "gremlins",
-    "name": "Gremlins"
+    "name": "Gremlins",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/gremlins.jpeg?raw=true"
   },
   {
     "id": "picross",
-    "name": "Picross"
+    "name": "Picross",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/picross.jpeg?raw=true"
   },
   {
     "id": "gargoyle",
-    "name": "Gargoyle"
+    "name": "Gargoyle",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/gargoyle.jpeg?raw=true"
   },
   {
     "id": "joust",
-    "name": "Joust"
+    "name": "Joust",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/joust.jpeg?raw=true"
   },
   {
     "id": "vectorman",
-    "name": "Vectorman"
+    "name": "Vectorman",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/vectorman.jpeg?raw=true"
   },
   {
     "id": "lemmings",
-    "name": "Lemmings"
+    "name": "Lemmings",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/lemmings.jpeg?raw=true"
   },
   {
     "id": "strider",
-    "name": "Strider"
+    "name": "Strider",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/strider.jpeg?raw=true"
   },
   {
     "id": "aero-the-acro-bat",
-    "name": "Aero the Acro-Bat"
+    "name": "Aero the Acro-Bat",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/aero-the-acro-bat.jpeg?raw=true"
   },
   {
     "id": "wai-wai-world",
-    "name": "Wai Wai World"
+    "name": "Wai Wai World",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/wai-wai-world.jpeg?raw=true"
   },
   {
     "id": "jeopardy",
-    "name": "Jeopardy"
+    "name": "Jeopardy",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/jeopardy.jpeg?raw=true"
   },
   {
     "id": "actraiser",
-    "name": "Actraiser"
+    "name": "Actraiser",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/actraiser.jpeg?raw=true"
   },
   {
     "id": "frankenstein",
-    "name": "Frankenstein"
+    "name": "Frankenstein",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/frankenstein.jpeg?raw=true"
   },
   {
     "id": "bonk",
-    "name": "Bonk"
+    "name": "Bonk",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bonk.jpeg?raw=true"
   },
   {
     "id": "crystalis",
-    "name": "Crystalis"
+    "name": "Crystalis",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/crystalis.jpeg?raw=true"
   },
   {
     "id": "klax",
-    "name": "Klax"
+    "name": "Klax",
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/klax.jpeg?raw=true"
   }
 ]
