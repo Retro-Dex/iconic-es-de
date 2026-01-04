@@ -45,9 +45,9 @@
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/zelda.jpeg?raw=true"
   },
   {
-    "id": "yu-gi-oh!",
+    "id": "yu-gi-oh",
     "name": "Yu-Gi-Oh!",
-    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/yu-gi-oh!.jpeg?raw=true"
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/yu-gi-oh.jpeg?raw=true"
   },
   {
     "id": "dragon-ball-z",
@@ -260,9 +260,9 @@
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/alien.jpeg?raw=true"
   },
   {
-    "id": "dungeons-&-dragons",
+    "id": "dungeons-dragons",
     "name": "Dungeons & Dragons",
-    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dungeons-&-dragons.jpeg?raw=true"
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/dungeons-dragons.jpeg?raw=true"
   },
   {
     "id": "adventure-island",
@@ -325,9 +325,9 @@
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/shrek.jpeg?raw=true"
   },
   {
-    "id": "mcdonald's",
+    "id": "mcdonalds",
     "name": "Mcdonald'S",
-    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mcdonald's.jpeg?raw=true"
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mcdonalds.jpeg?raw=true"
   },
   {
     "id": "wario",
@@ -506,7 +506,7 @@
   },
   {
     "id": "bugs-bunny",
-    "name": "Bugs Bunny",
+    "name": "",
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/bugs-bunny.jpeg?raw=true"
   },
   {
@@ -610,9 +610,9 @@
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/earthworm-jim.jpeg?raw=true"
   },
   {
-    "id": "joe-&-mac",
+    "id": "joe-mac",
     "name": "Joe & Mac",
-    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/joe-&-mac.jpeg?raw=true"
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/joe-mac.jpeg?raw=true"
   },
   {
     "id": "alex-kidd",
@@ -680,9 +680,9 @@
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/gradius.jpeg?raw=true"
   },
   {
-    "id": "r.c.-pro-am",
+    "id": "rc-pro-am",
     "name": "R.C. Pro-Am",
-    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/r.c.-pro-am.jpeg?raw=true"
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/rc-pro-am.jpeg?raw=true"
   },
   {
     "id": "arkanoid",
@@ -710,9 +710,9 @@
     "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/micro-machines.jpeg?raw=true"
   },
   {
-    "id": "mr.-nutz",
+    "id": "mr-nutz",
     "name": "Mr. Nutz",
-    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mr.-nutz.jpeg?raw=true"
+    "image": "https://github.com/Retro-Dex/iconic-es-de/blob/collections/_inc/systems/collections/mr-nutz.jpeg?raw=true"
   },
   {
     "id": "ecco",
